@@ -1,3 +1,13 @@
+/*
+ * File: app.component.spec.ts
+ * Authors: Juhász Zsolt
+ * Copyright: 2022, Juhász Zsolt
+ * Group: Szoft II/N
+ * Date: 2022-01-15
+ * Github: https://github.com/Zsoltjuhasz
+ * Licenc: GNU GPL
+ */
+
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
